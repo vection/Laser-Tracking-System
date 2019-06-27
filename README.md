@@ -1,6 +1,11 @@
 # Laser-Tracking-System
 ### Laser tracking system based on motion detection https://youtu.be/veeBLcLZFfc
 
+# Usage 
+```
+python laser_tracker.py
+```
+
 ## Introduction
 
 In part of autonomous robotics course in university we had to arrange final project with connection to autonomous machine.
