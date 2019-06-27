@@ -61,7 +61,7 @@ Our pie final connections would seem like this:
 ![image](https://user-images.githubusercontent.com/28596354/60253869-8a76ac80-98d5-11e9-927b-e9d18019c5e2.png)
 
  
-Model Architecture
+## Model Architecture
 
 First we need to locate the camera in the closest place from the laser
 which will give us the best precision.
