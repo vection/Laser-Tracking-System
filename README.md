@@ -17,7 +17,7 @@ With a relatively small budget we achieved a good product.
 
 ###### Raspberry pie 3B
  
-![Picture] (/images/photo_2019-06-26_20-16-23.jpg)
+![rsp](https://user-images.githubusercontent.com/28596354/60253402-c78e6f00-98d4-11e9-8cab-5d4562777fd2.jpg)
 
 
 
