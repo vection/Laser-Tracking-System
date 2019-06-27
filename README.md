@@ -17,7 +17,7 @@ With a relatively small budget we achieved a good product.
 
 ###### Raspberry pie 3B
  
-
+![Picture] (/images/photo_2019-06-26_20-16-23.jpg)
 
 
 
